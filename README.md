@@ -10,7 +10,7 @@ One resource contention free CPU Core recommended, otherwise set the software pr
 
 # Usage :
 
-1. Set up a dummy playback sound device that didn't output to any sound device.
+1. Set up a dummy playback sound device that didn't output to any sound device. Set the dummy playback sound device as the default playback sound device.
 
 For example, use Voicemeeter but do not run the software or shutdown the voicemeeter engine.
 
@@ -18,7 +18,7 @@ For example, use Voicemeeter but do not run the software or shutdown the voiceme
 
 2. Download the lybBass FX Software, Unzip it and open cfg.ini.
 
-3. Change "CHANGE_ME" to the device number of your playback sound. You can guess if you don't know what is your sound device ID number. It starts from 1. Also change the sample rate.
+3. Change "CHANGE_ME" to the device number of your playback sound. You can guess if you don't know what is your sound device ID number. It starts from 1. Also change the sample rate, make sure it matches your playback sound device's sample rate.
 
 4. Run the Software, your Sound Device should show up. If it doesn't try chaging the device ID number again until it shows up.
 
