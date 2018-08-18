@@ -12,7 +12,7 @@ One resource contention free CPU Core recommended, otherwise set the software pr
 
 1. Set up a dummy playback sound device that didn't output to any sound device. Set the dummy playback sound device as the default playback sound device.
 
-For example, use Voicemeeter but do not run the software or shutdown the voicemeeter engine.
+For example, use Voicemeeter but do not run the software or do shutdown the voicemeeter engine.
 
 ![example_1](https://lybsoft.github.io/bassfx_wasapi/usage1.PNG)
 
