@@ -1,6 +1,6 @@
 # lybBass FX
 
-This software tries to mimic "Virtual Subwoofer" Technology that was used in certain Windows Application for low end speakers that can't handle frequencies below 80hz.
+This software tries to mimic "Virtual Subwoofer" Technology that was used in certain Windows Application for low end speakers that can't handle low frequencies or bass.
 
 # [Download here](https://lybsoft.github.io/bassfx_wasapi/release.zip)
 
