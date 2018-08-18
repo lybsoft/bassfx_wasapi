@@ -26,6 +26,8 @@ For example, use Voicemeeter but do not run the software or do shutdown the voic
 
 5. Check all the checkboxes in the software, and you're ready to go. We recommend to also install and use [EqualizerAPO](https://sourceforge.net/projects/equalizerapo/) to increase the bass. Install it on your Real Sound Device, not the dummy sound device. Do keep in mind the psuedo bass frequencies you've set on cfg.ini.
 
+Feel free to edit the config to get the best out of your Speakers.
+
 # Example Config for Most USB Speakers :
 ~~~~~~~~
 [config]
@@ -95,3 +97,5 @@ freq=48000
 buffer=50
 ;buffer size. affects latency, sound quality and cpu usage.
 ~~~~~~~~
+
+
