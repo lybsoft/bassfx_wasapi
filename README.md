@@ -20,7 +20,7 @@ For example, use Voicemeeter but do not run the software or do shutdown the voic
 
 3. Change "CHANGE_ME" to the device number of your playback sound. You can guess if you don't know what is your sound device ID number. It starts from 1. Also change the sample rate, make sure it matches your playback sound device's sample rate.
 
-4. Run the Software, your Sound Device should show up. If it doesn't try chaging the device ID number again until it shows up.
+4. Run the Software, your Sound Device should show up. If it doesn't try changing the device ID number again until it shows up.
 
 ![example_2](https://lybsoft.github.io/bassfx_wasapi/usage2.PNG)
 
