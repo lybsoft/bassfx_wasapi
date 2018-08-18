@@ -24,7 +24,7 @@ For example, use Voicemeeter but do not run the software or shutdown the voiceme
 
 ![example_2](https://lybsoft.github.io/bassfx_wasapi/usage2.PNG)
 
-5. You're ready to go. We recommend to also install and use [EqualizerAPO](https://sourceforge.net/projects/equalizerapo/) to increase the bass. Install it on your Real Sound Device, not the dummy sound device. Do keep in mind the psuedo bass frequencies you've set on cfg.ini.
+5. Check all the checkboxes in the software, and you're ready to go. We recommend to also install and use [EqualizerAPO](https://sourceforge.net/projects/equalizerapo/) to increase the bass. Install it on your Real Sound Device, not the dummy sound device. Do keep in mind the psuedo bass frequencies you've set on cfg.ini.
 
 # Example Config for Most USB Speakers :
 ~~~~~~~~
